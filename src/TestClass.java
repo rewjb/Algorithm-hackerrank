@@ -1,5 +1,7 @@
 public class TestClass {
 
 
-    asdasd
+    public static void main(String[] args) {
+
+    }
 }
